@@ -6,7 +6,8 @@
   "description": "",
   "dependencies": {
     "minimist": "^1.2.0",
-    "ramda": "^0.25.0"
+    "ramda": "^0.25.0",
+    "yargs": "^12.0.2"
   },
   "devDependencies": {
     "eslint": "^5.3.0",
